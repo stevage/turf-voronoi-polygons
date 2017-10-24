@@ -1,5 +1,5 @@
 {
-  "name": "turf-voronoi-d3",
+  "name": "turf-voronoi-polygons",
   "version": "0.1.0",
   "description": "Unofficial Turf module to generate Voronoi polygons, using d3-voronoi.",
   "main": "index.js",
@@ -12,5 +12,9 @@
     "@turf/linestring-to-polygon": "^5.0.0",
     "d3-voronoi": "^1.1.2",
     "turf-helpers": "^3.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevage/turf-voronoi-polygons"
   }
 }
