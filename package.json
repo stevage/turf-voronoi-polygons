@@ -1,0 +1,16 @@
+{
+  "name": "turf-voronoi-d3",
+  "version": "0.1.0",
+  "description": "Unofficial Turf module to generate Voronoi polygons, using d3-voronoi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Bennett <me@stevebennett.me> (http://stevebennett.me)",
+  "license": "MIT",
+  "dependencies": {
+    "@turf/linestring-to-polygon": "^5.0.0",
+    "d3-voronoi": "^1.1.2",
+    "turf-helpers": "^3.0.12"
+  }
+}
